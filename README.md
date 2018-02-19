@@ -13,18 +13,18 @@
 
 ## RESTful API
 * Get
- * localhost:8080/list
- * localhoost:8080/getUser/:username
+  * localhost:8080/list
+  * localhoost:8080/getUser/:username
   
 * Post (Postman)
- * localhost:8080/addUser/:username
- * Body : { “password”: “_____”, “name”: “_____” }
+  * localhost:8080/addUser/:username
+  * Body : { “password”: “_____”, “name”: “_____” }
  
 * Put (Postman)
- * localhost:8080/updateUser/:username
- * Body : { “password”: “_____”, “name”: “_____” }
+  * localhost:8080/updateUser/:username
+  * Body : { “password”: “_____”, “name”: “_____” }
  
- * Delete
+* Delete
   * localhost:8080/deleteUser/:username
   
 ## Session
