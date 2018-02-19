@@ -13,8 +13,8 @@
 
 ## RESTful API
 * Get
-  * localhost:8080/list
-  * localhoost:8080/getUser/:username
+ * localhost:8080/list
+ * localhoost:8080/getUser/:username
   
 * Post (Postman)
  * localhost:8080/addUser/:username
